@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fixmidterm/static/css/main.944c8e4c.css",
+    "main.js": "/fixmidterm/static/js/main.5c168934.js",
+    "static/js/787.c4325761.chunk.js": "/fixmidterm/static/js/787.c4325761.chunk.js",
+    "static/media/Tonkut.webp": "/fixmidterm/static/media/Tonkut.93755ea4f56d6808dea2.webp",
+    "static/media/Dongburi.webp": "/fixmidterm/static/media/Dongburi.8af9a64532c405033cf6.webp",
+    "static/media/Selmon.webp": "/fixmidterm/static/media/Selmon.f252c76dbd4c0d65d00d.webp",
+    "static/media/PAI1.jpg": "/fixmidterm/static/media/PAI1.9c98f41ae50dccf9ff1e.jpg",
+    "static/media/sushi02.jpg": "/fixmidterm/static/media/sushi02.2feb98db23f3e008db9a.jpg",
+    "index.html": "/fixmidterm/index.html",
+    "main.944c8e4c.css.map": "/fixmidterm/static/css/main.944c8e4c.css.map",
+    "main.5c168934.js.map": "/fixmidterm/static/js/main.5c168934.js.map",
+    "787.c4325761.chunk.js.map": "/fixmidterm/static/js/787.c4325761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944c8e4c.css",
+    "static/js/main.5c168934.js"
+  ]
+}
